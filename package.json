@@ -1,6 +1,6 @@
 {
   "name": "gulp-uglicssy",
-  "version": "0.1.0-beta.2",
+  "version": "0.1.0-beta.3",
   "description": "Gulp-wrapped version of the Uglicssy NPM package",
   "main": "dist/gulp-uglicssy.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/matewka/gulp-uglicssy#readme",
   "dependencies": {
-    "uglicssy": "0.1.0"
+    "uglicssy": "0.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.0",
