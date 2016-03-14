@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/matewka/gulp-uglicssy#readme",
   "dependencies": {
-    "uglicssy": "0.2.0"
+    "uglicssy": "~0.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.0",
