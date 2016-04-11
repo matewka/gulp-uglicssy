@@ -1,6 +1,6 @@
 {
   "name": "gulp-uglicssy",
-  "version": "0.1.0-beta.4",
+  "version": "0.1.0",
   "description": "Gulp-wrapped version of the Uglicssy NPM package",
   "main": "dist/gulp-uglicssy.js",
   "scripts": {
